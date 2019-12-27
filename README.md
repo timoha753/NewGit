@@ -1,5 +1,3 @@
 # NewGit
 
 ## Hello World
-
-dev
